@@ -1,0 +1,114 @@
+23:23:58 **** Build of configuration Debug for project sampleFolder ****
+make all 
+Building file: ../src/sampleFolder.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampleFolder.d" -MT"src/sampleFolder.o" -o "src/sampleFolder.o" "../src/sampleFolder.cpp"
+Finished building: ../src/sampleFolder.cpp
+ 
+Building target: sampleFolder
+Invoking: Cross G++ Linker
+g++  -o "sampleFolder" ./src/sampleFolder.o   
+Finished building target: sampleFolder
+ 
+23:24:25 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:28:07 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:29:20 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:30:31 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:30:35 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:30:36 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:30:37 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:30:37 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:33:10 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+23:33:41 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+06:35:12 **** Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+06:35:39 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+06:38:46 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+Building file: ../src/sampleFolder.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampleFolder.d" -MT"src/sampleFolder.o" -o "src/sampleFolder.o" "../src/sampleFolder.cpp"
+Finished building: ../src/sampleFolder.cpp
+ 
+Building target: sampleFolder
+Invoking: Cross G++ Linker
+g++  -o "sampleFolder" ./src/sampleFolder.o   
+Finished building target: sampleFolder
+ 
+06:39:21 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+06:41:01 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+Building file: ../src/sampleFolder.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/sampleFolder.d" -MT"src/sampleFolder.o" -o "src/sampleFolder.o" "../src/sampleFolder.cpp"
+Finished building: ../src/sampleFolder.cpp
+ 
+Building target: sampleFolder
+Invoking: Cross G++ Linker
+g++  -o "sampleFolder" ./src/sampleFolder.o   
+Finished building target: sampleFolder
+ 
+06:43:45 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+06:44:38 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:05:06 **** Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:07:00 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:07:14 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:07:28 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:08:12 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:08:27 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:08:33 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:09:55 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:12:49 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:14:49 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.
+22:14:52 **** Incremental Build of configuration Debug for project sampleFolder ****
+make all 
+make: Nothing to be done for 'all'.

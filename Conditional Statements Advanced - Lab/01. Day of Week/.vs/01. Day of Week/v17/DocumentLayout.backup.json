@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\01. Day of Week\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{16E9316A-B037-4F26-9DD6-1E568BFD1E41}|..\\12. Trade Commissions\\12. Trade Commissions.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\12. Trade Commissions.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4386AC1F-5A7A-4B27-8F42-1E8C4346DAC9}|..\\11. Fruit Shop\\11. Fruit Shop.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\11. Fruit Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA77CFB6-A6BB-4200-8F40-A564C64541A9}|..\\10. Invalid Number\\10. Invalid Number.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\10. Invalid Number\\10. Invalid Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{851B7497-257A-4810-8604-8BFDB80939F6}|..\\09. Fruit or Vegetable\\09. Fruit or Vegetable.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\09. Fruit or Vegetable.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B303036-E6AA-4F6A-A120-F34B24CCE691}|..\\08. Cinema Ticket\\08. Cinema Ticket.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\08. Cinema Ticket\\08. Cinema Ticket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02922DA6-1040-4BA4-A951-76FC5BE4CEB6}|..\\07. Working Hours\\07. Working Hours.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\07. Working Hours\\07. Working Hours.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAFDD113-4020-4F1A-BD7B-64DD97528DA2}|..\\06. Number in Range\\06. Number in Range.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\06. Number in Range\\06. Number in Range.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D2B2E1B-92FD-4C86-BAEA-6CC3E554B9BF}|..\\05. Small Shop\\05. Small Shop.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\05. Small Shop\\05. Small Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{678DECE2-9EC8-4390-80DE-7575F7F2BBE5}|..\\04. Personal Titles\\04. Personal Titles.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\04. Personal Titles\\04. Personal Titles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BDE0A1E2-5406-4189-BC0C-14E081BF81CD}|..\\03. Animal Type\\03. Animal Type.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\03. Animal Type\\03. Animal Type.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50347D21-3088-4E74-A530-815BF7ABE1FB}|..\\02. Weekend or Working Day\\02. Weekend or Working Day.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\02. Weekend or Working Day.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76B0C886-D45B-45AA-A093-0ECC326C2B2D}|01. Day of Week\\01. Day of Week.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\01. Day of Week\\01. Day of Week\\01. Day of Week.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76B0C886-D45B-45AA-A093-0ECC326C2B2D}|01. Day of Week\\01. Day of Week.vcxproj|solutionrelative:01. Day of Week\\01. Day of Week.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "12. Trade Commissions.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\12. Trade Commissions.cpp",
+              "RelativeDocumentMoniker": "..\\12. Trade Commissions\\12. Trade Commissions.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\12. Trade Commissions\\12. Trade Commissions.cpp",
+              "RelativeToolTip": "..\\12. Trade Commissions\\12. Trade Commissions.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T21:06:07.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "11. Fruit Shop.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\11. Fruit Shop.cpp",
+              "RelativeDocumentMoniker": "..\\11. Fruit Shop\\11. Fruit Shop.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\11. Fruit Shop\\11. Fruit Shop.cpp",
+              "RelativeToolTip": "..\\11. Fruit Shop\\11. Fruit Shop.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T20:55:59.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "10. Invalid Number.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\10. Invalid Number\\10. Invalid Number.cpp",
+              "RelativeDocumentMoniker": "..\\10. Invalid Number\\10. Invalid Number.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\10. Invalid Number\\10. Invalid Number.cpp",
+              "RelativeToolTip": "..\\10. Invalid Number\\10. Invalid Number.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T20:50:22.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "09. Fruit or Vegetable.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\09. Fruit or Vegetable.cpp",
+              "RelativeDocumentMoniker": "..\\09. Fruit or Vegetable\\09. Fruit or Vegetable.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\09. Fruit or Vegetable\\09. Fruit or Vegetable.cpp",
+              "RelativeToolTip": "..\\09. Fruit or Vegetable\\09. Fruit or Vegetable.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T20:34:51.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "08. Cinema Ticket.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\08. Cinema Ticket\\08. Cinema Ticket.cpp",
+              "RelativeDocumentMoniker": "..\\08. Cinema Ticket\\08. Cinema Ticket.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\08. Cinema Ticket\\08. Cinema Ticket.cpp",
+              "RelativeToolTip": "..\\08. Cinema Ticket\\08. Cinema Ticket.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T20:19:15.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "07. Working Hours.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\07. Working Hours\\07. Working Hours.cpp",
+              "RelativeDocumentMoniker": "..\\07. Working Hours\\07. Working Hours.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\07. Working Hours\\07. Working Hours.cpp",
+              "RelativeToolTip": "..\\07. Working Hours\\07. Working Hours.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T19:43:29.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "06. Number in Range.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\06. Number in Range\\06. Number in Range.cpp",
+              "RelativeDocumentMoniker": "..\\06. Number in Range\\06. Number in Range.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\06. Number in Range\\06. Number in Range.cpp",
+              "RelativeToolTip": "..\\06. Number in Range\\06. Number in Range.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T19:37:57.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "05. Small Shop.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\05. Small Shop\\05. Small Shop.cpp",
+              "RelativeDocumentMoniker": "..\\05. Small Shop\\05. Small Shop.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\05. Small Shop\\05. Small Shop.cpp",
+              "RelativeToolTip": "..\\05. Small Shop\\05. Small Shop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:27:18.964Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "04. Personal Titles.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\04. Personal Titles\\04. Personal Titles.cpp",
+              "RelativeDocumentMoniker": "..\\04. Personal Titles\\04. Personal Titles.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\04. Personal Titles\\04. Personal Titles.cpp",
+              "RelativeToolTip": "..\\04. Personal Titles\\04. Personal Titles.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T18:13:02.997Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "03. Animal Type.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\03. Animal Type\\03. Animal Type.cpp",
+              "RelativeDocumentMoniker": "..\\03. Animal Type\\03. Animal Type.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\03. Animal Type\\03. Animal Type.cpp",
+              "RelativeToolTip": "..\\03. Animal Type\\03. Animal Type.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T17:46:24.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "02. Weekend or Working Day.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\02. Weekend or Working Day.cpp",
+              "RelativeDocumentMoniker": "..\\02. Weekend or Working Day\\02. Weekend or Working Day.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\02. Weekend or Working Day\\02. Weekend or Working Day.cpp",
+              "RelativeToolTip": "..\\02. Weekend or Working Day\\02. Weekend or Working Day.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T16:43:27.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "01. Day of Week.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\01. Day of Week\\01. Day of Week\\01. Day of Week.cpp",
+              "RelativeDocumentMoniker": "01. Day of Week\\01. Day of Week.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Lab\\01. Day of Week\\01. Day of Week\\01. Day of Week.cpp",
+              "RelativeToolTip": "01. Day of Week\\01. Day of Week.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-15T11:20:53.749Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\01. Cinema\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73C8ED5E-2E67-4D6E-9115-0931386F7B4D}|..\\03. New House\\03. New House.vcxproj|C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF11D0E2-F327-46C9-87F0-02F6AA1B8F6D}|..\\02. Summer Outfit\\02. Summer Outfit.vcxproj|C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\02. Summer Outfit\\02. Summer Outfit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950D5E34-BE1D-4D42-A9ED-D980A1000BAD}|01. Cinema\\01. Cinema.vcxproj|C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{950D5E34-BE1D-4D42-A9ED-D980A1000BAD}|01. Cinema\\01. Cinema.vcxproj|solutionrelative:01. Cinema\\01. Cinema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "03. New House.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp",
+              "RelativeDocumentMoniker": "..\\03. New House\\03. New House.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp",
+              "RelativeToolTip": "..\\03. New House\\03. New House.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T18:30:27.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "02. Summer Outfit.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\02. Summer Outfit\\02. Summer Outfit.cpp",
+              "RelativeDocumentMoniker": "..\\02. Summer Outfit\\02. Summer Outfit.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\02. Summer Outfit\\02. Summer Outfit.cpp",
+              "RelativeToolTip": "..\\02. Summer Outfit\\02. Summer Outfit.cpp",
+              "ViewState": "AgIAADoAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T17:32:28.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "01. Cinema.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp",
+              "RelativeDocumentMoniker": "01. Cinema\\01. Cinema.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp",
+              "RelativeToolTip": "01. Cinema\\01. Cinema.cpp",
+              "ViewState": "AgIAAAQAAAAAAAAAAADwvxEAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-16T16:43:27.621Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

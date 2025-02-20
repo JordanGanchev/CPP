@@ -1,0 +1,5 @@
+﻿  08. On Time for the Exam.cpp
+C:\Users\Jordan Ganchev\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\08. On Time for the Exam.cpp(65,5): error C2084: function 'int main(void)' already has a body
+      C:\Users\Jordan Ganchev\source\repos\Conditional Statements Advanced - Exercise\08. On Time for the Exam\08. On Time for the Exam.cpp(5,5):
+      see previous definition of 'main'
+  

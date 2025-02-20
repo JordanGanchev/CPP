@@ -21,7 +21,7 @@
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{af0dfce5-65ee-4d69-84d7-4dcd8cabf8e7}</ProjectGuid>
+    <ProjectGuid>{c5c0ecac-fec4-4083-8759-bca3f8625d50}</ProjectGuid>
     <RootNamespace>My04FishingBoat</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>

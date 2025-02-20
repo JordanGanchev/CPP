@@ -1,15 +1,33 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\01. Cinema\\",
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\01. Cinema\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{73C8ED5E-2E67-4D6E-9115-0931386F7B4D}|..\\03. New House\\03. New House.vcxproj|C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8E14CCCF-FAB2-45BE-8345-C27C77083B7D}|..\\09. Ski Trip\\09. Ski Trip.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\09. Ski Trip\\09. Ski Trip.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EF11D0E2-F327-46C9-87F0-02F6AA1B8F6D}|..\\02. Summer Outfit\\02. Summer Outfit.vcxproj|C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\02. Summer Outfit\\02. Summer Outfit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{4DE69E7D-AEB0-4241-8B72-D7A4DB70D40F}|..\\08. On Time for the Exam\\08. On Time for the Exam.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{950D5E34-BE1D-4D42-A9ED-D980A1000BAD}|01. Cinema\\01. Cinema.vcxproj|C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{E65D178F-BED5-4115-AB6C-23642E900E8A}|..\\operator2\\operator2.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\operator2\\operator2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{212C1F27-2DBE-42B1-9C46-1A0A001B8F72}|..\\07. Hotel Room\\07. Hotel Room.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\07. Hotel Room\\07. Hotel Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A9B21EC-E80D-48C5-926B-767A11ACBFD9}|..\\06. Operations Between Numbers\\06. Operations Between Numbers.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{174B4944-EE15-49EB-AAD5-EDD2B7667516}|..\\05. Journey\\05. Journey.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5C0ECAC-FEC4-4083-8759-BCA3F8625D50}|..\\04. Fishing Boat\\04. Fishing Boat.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\04. Fishing Boat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73C8ED5E-2E67-4D6E-9115-0931386F7B4D}|..\\03. New House\\03. New House.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{950D5E34-BE1D-4D42-A9ED-D980A1000BAD}|01. Cinema\\01. Cinema.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{950D5E34-BE1D-4D42-A9ED-D980A1000BAD}|01. Cinema\\01. Cinema.vcxproj|solutionrelative:01. Cinema\\01. Cinema.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,54 +38,122 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "03. New House.cpp",
-              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp",
-              "RelativeDocumentMoniker": "..\\03. New House\\03. New House.cpp",
-              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp",
-              "RelativeToolTip": "..\\03. New House\\03. New House.cpp",
-              "ViewState": "AgIAACIAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Title": "09. Ski Trip.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\09. Ski Trip\\09. Ski Trip.cpp",
+              "RelativeDocumentMoniker": "..\\09. Ski Trip\\09. Ski Trip.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\09. Ski Trip\\09. Ski Trip.cpp",
+              "RelativeToolTip": "..\\09. Ski Trip\\09. Ski Trip.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-16T18:30:27.294Z",
+              "WhenOpened": "2025-02-20T20:09:04.961Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "02. Summer Outfit.cpp",
-              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\02. Summer Outfit\\02. Summer Outfit.cpp",
-              "RelativeDocumentMoniker": "..\\02. Summer Outfit\\02. Summer Outfit.cpp",
-              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\02. Summer Outfit\\02. Summer Outfit.cpp",
-              "RelativeToolTip": "..\\02. Summer Outfit\\02. Summer Outfit.cpp",
-              "ViewState": "AgIAADoAAAAAAAAAAAAAACcAAAAFAAAAAAAAAA==",
+              "Title": "08. On Time for the Exam.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.cpp",
+              "RelativeDocumentMoniker": "..\\08. On Time for the Exam\\08. On Time for the Exam.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\08. On Time for the Exam\\08. On Time for the Exam.cpp",
+              "RelativeToolTip": "..\\08. On Time for the Exam\\08. On Time for the Exam.cpp",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAAF4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-16T17:32:28.255Z",
+              "WhenOpened": "2025-02-18T20:20:38.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "07. Hotel Room.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\07. Hotel Room\\07. Hotel Room.cpp",
+              "RelativeDocumentMoniker": "..\\07. Hotel Room\\07. Hotel Room.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\07. Hotel Room\\07. Hotel Room.cpp",
+              "RelativeToolTip": "..\\07. Hotel Room\\07. Hotel Room.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-18T17:17:27.261Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "01. Cinema.cpp",
-              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp",
-              "RelativeDocumentMoniker": "01. Cinema\\01. Cinema.cpp",
-              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp",
-              "RelativeToolTip": "01. Cinema\\01. Cinema.cpp",
-              "ViewState": "AgIAAAQAAAAAAAAAAADwvxEAAAAaAAAAAAAAAA==",
+              "Title": "operator2.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\operator2\\operator2.cpp",
+              "RelativeDocumentMoniker": "..\\operator2\\operator2.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\operator2\\operator2.cpp",
+              "RelativeToolTip": "..\\operator2\\operator2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-02-16T16:43:27.621Z",
+              "WhenOpened": "2025-02-18T09:37:00.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "06. Operations Between Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.cpp",
+              "RelativeDocumentMoniker": "..\\06. Operations Between Numbers\\06. Operations Between Numbers.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\06. Operations Between Numbers\\06. Operations Between Numbers.cpp",
+              "RelativeToolTip": "..\\06. Operations Between Numbers\\06. Operations Between Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T20:33:41.279Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "05. Journey.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.cpp",
+              "RelativeDocumentMoniker": "..\\05. Journey\\05. Journey.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\05. Journey\\05. Journey.cpp",
+              "RelativeToolTip": "..\\05. Journey\\05. Journey.cpp",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T19:30:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "04. Fishing Boat.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\04. Fishing Boat.cpp",
+              "RelativeDocumentMoniker": "..\\04. Fishing Boat\\04. Fishing Boat.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\04. Fishing Boat\\04. Fishing Boat.cpp",
+              "RelativeToolTip": "..\\04. Fishing Boat\\04. Fishing Boat.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T17:51:59.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "03. New House.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp",
+              "RelativeDocumentMoniker": "..\\03. New House\\03. New House.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\03. New House\\03. New House.cpp",
+              "RelativeToolTip": "..\\03. New House\\03. New House.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T17:41:00.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "01. Cinema.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp",
+              "RelativeDocumentMoniker": "01. Cinema\\01. Cinema.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements Advanced - Exercise\\01. Cinema\\01. Cinema\\01. Cinema.cpp",
+              "RelativeToolTip": "01. Cinema\\01. Cinema.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-17T17:14:32.244Z"
             }
           ]
         }

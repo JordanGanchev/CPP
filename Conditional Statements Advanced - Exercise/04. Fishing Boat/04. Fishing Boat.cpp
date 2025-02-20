@@ -1,20 +1,67 @@
-// 04. Fishing Boat.cpp : This file contains the 'main' function. Program execution begins and ends there.
-//
-
 #include <iostream>
+
+using namespace std;
 
 int main()
 {
-    std::cout << "Hello World!\n";
+    const int spring = 3000;
+    const int summerAutumn = 4200;
+    const int winter = 2600;
+
+    int budget;
+    string season;
+    int numberOfFish;
+
+    cin >> budget >> season >> numberOfFish;
+
+    double price;
+
+    if (season == "Spring") {
+        if (numberOfFish <= 6) {
+            price = spring * 0.9;
+        }
+        else if (numberOfFish > 6 && numberOfFish <= 11) {
+            price = spring * 0.85;
+        }
+        else if (numberOfFish >= 12) {
+            price = spring * 0.75;
+        }
+    }
+    if (season == "Summer" || season == "Autumn") {
+        if (numberOfFish <= 6) {
+            price = summerAutumn * 0.9;
+        }
+        else if (numberOfFish > 6 && numberOfFish <= 11) {
+            price = summerAutumn * 0.85;
+        }
+        else if (numberOfFish >= 12) {
+            price = summerAutumn * 0.75;
+        }
+    }
+    if (season == "Winter") {
+        if (numberOfFish <= 6) {
+            price = winter * 0.9;
+        }
+        else if (numberOfFish > 6 && numberOfFish <= 11) {
+            price = winter * 0.85;
+        }
+        else if (numberOfFish >= 12) {
+            price = winter * 0.75;
+        }
+    }
+
+    if (numberOfFish % 2 == 0 && season != "Autumn") {
+        price *= 0.95;
+    }
+
+    cout.setf(ios::fixed);
+    cout.precision(2);
+
+    if (budget >= price) {
+        cout << "Yes! You have " << budget - price << " leva left.";
+    }
+    else {
+        cout << "Not enough money! You need " << price - budget << " leva.";
+    }
+
 }
-
-// Run program: Ctrl + F5 or Debug > Start Without Debugging menu
-// Debug program: F5 or Debug > Start Debugging menu
-
-// Tips for Getting Started: 
-//   1. Use the Solution Explorer window to add/manage files
-//   2. Use the Team Explorer window to connect to source control
-//   3. Use the Output window to see build output and other messages
-//   4. Use the Error List window to view errors
-//   5. Go to Project > Add New Item to create new code files, or Project > Add Existing Item to add existing code files to the project
-//   6. In the future, to open this project again, go to File > Open > Project and select the .sln file

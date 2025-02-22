@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\01. Numbers from 1 to 100\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7B8AD4-9B4D-4A63-B6AE-B4B5E73465B5}|..\\09. Left and Right Sum\\09. Left and Right Sum.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\09. Left and Right Sum\\09. Left and Right Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{489A8A36-A298-4EBD-BE6A-DA25AFF33BB6}|..\\07. Sum Numbers\\07. Sum Numbers.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\07. Sum Numbers\\07. Sum Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B84ADCC5-0917-45A1-95CD-DAE2C8004CB9}|..\\08. Number sequence\\08. Number sequence.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\08. Number sequence\\08. Number sequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EABD3F92-1DDD-49C7-8785-DC42618E1717}|..\\06. Vowels Sum\\06. Vowels Sum.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\06. Vowels Sum\\06. Vowels Sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{635AD33B-FEB3-453A-98CB-3A8EE93EDD18}|..\\05. Character Sequence\\05. Character Sequence.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\05. Character Sequence\\05. Character Sequence.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{75046FD6-1297-441F-9FF7-1B6BE53405D6}|..\\text_work\\example_for_text_work\\example_for_text_work.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\text_work\\example_for_text_work\\example_for_text_work.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74A52983-08F4-4A70-A64E-CAE2FBB4E050}|..\\04. Even Powers of 2\\04. Even Powers of 2.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\04. Even Powers of 2\\04. Even Powers of 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{267DE9FE-C4A6-4A1F-B077-FEC9E52A2A94}|..\\03. Numbers 1N with Step 3\\03. Numbers 1N with Step 3.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\03. Numbers 1N with Step 3\\03. Numbers 1N with Step 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B29140EE-1A61-4725-81DC-581D451CD0A7}|..\\02. Numbers N1\\02. Numbers N1.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\02. Numbers N1\\02. Numbers N1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95B4B3A7-512B-4CCD-8E42-AA223D25370F}|01. Numbers from 1 to 100\\01. Numbers from 1 to 100.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\01. Numbers from 1 to 100\\01. Numbers from 1 to 100\\01. Numbers from 1 to 100.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95B4B3A7-512B-4CCD-8E42-AA223D25370F}|01. Numbers from 1 to 100\\01. Numbers from 1 to 100.vcxproj|solutionrelative:01. Numbers from 1 to 100\\01. Numbers from 1 to 100.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "09. Left and Right Sum.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\09. Left and Right Sum\\09. Left and Right Sum.cpp",
+              "RelativeDocumentMoniker": "..\\09. Left and Right Sum\\09. Left and Right Sum.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\09. Left and Right Sum\\09. Left and Right Sum.cpp*",
+              "RelativeToolTip": "..\\09. Left and Right Sum\\09. Left and Right Sum.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T16:43:02.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "08. Number sequence.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\08. Number sequence\\08. Number sequence.cpp",
+              "RelativeDocumentMoniker": "..\\08. Number sequence\\08. Number sequence.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\08. Number sequence\\08. Number sequence.cpp*",
+              "RelativeToolTip": "..\\08. Number sequence\\08. Number sequence.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T16:24:28.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07. Sum Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\07. Sum Numbers\\07. Sum Numbers.cpp",
+              "RelativeDocumentMoniker": "..\\07. Sum Numbers\\07. Sum Numbers.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\07. Sum Numbers\\07. Sum Numbers.cpp",
+              "RelativeToolTip": "..\\07. Sum Numbers\\07. Sum Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T16:13:58.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "06. Vowels Sum.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\06. Vowels Sum\\06. Vowels Sum.cpp",
+              "RelativeDocumentMoniker": "..\\06. Vowels Sum\\06. Vowels Sum.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\06. Vowels Sum\\06. Vowels Sum.cpp",
+              "RelativeToolTip": "..\\06. Vowels Sum\\06. Vowels Sum.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T16:01:14.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "example_for_text_work.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\text_work\\example_for_text_work\\example_for_text_work.cpp",
+              "RelativeDocumentMoniker": "..\\text_work\\example_for_text_work\\example_for_text_work.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\text_work\\example_for_text_work\\example_for_text_work.cpp",
+              "RelativeToolTip": "..\\text_work\\example_for_text_work\\example_for_text_work.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T15:36:48.959Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "05. Character Sequence.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\05. Character Sequence\\05. Character Sequence.cpp",
+              "RelativeDocumentMoniker": "..\\05. Character Sequence\\05. Character Sequence.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\05. Character Sequence\\05. Character Sequence.cpp",
+              "RelativeToolTip": "..\\05. Character Sequence\\05. Character Sequence.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T15:33:51.124Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "04. Even Powers of 2.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\04. Even Powers of 2\\04. Even Powers of 2.cpp",
+              "RelativeDocumentMoniker": "..\\04. Even Powers of 2\\04. Even Powers of 2.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\04. Even Powers of 2\\04. Even Powers of 2.cpp",
+              "RelativeToolTip": "..\\04. Even Powers of 2\\04. Even Powers of 2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T12:45:21.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "03. Numbers 1N with Step 3.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\03. Numbers 1N with Step 3\\03. Numbers 1N with Step 3.cpp",
+              "RelativeDocumentMoniker": "..\\03. Numbers 1N with Step 3\\03. Numbers 1N with Step 3.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\03. Numbers 1N with Step 3\\03. Numbers 1N with Step 3.cpp",
+              "RelativeToolTip": "..\\03. Numbers 1N with Step 3\\03. Numbers 1N with Step 3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T12:38:22.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "02. Numbers N1.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\02. Numbers N1\\02. Numbers N1.cpp",
+              "RelativeDocumentMoniker": "..\\02. Numbers N1\\02. Numbers N1.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\02. Numbers N1\\02. Numbers N1.cpp",
+              "RelativeToolTip": "..\\02. Numbers N1\\02. Numbers N1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T12:17:14.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "01. Numbers from 1 to 100.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\01. Numbers from 1 to 100\\01. Numbers from 1 to 100\\01. Numbers from 1 to 100.cpp",
+              "RelativeDocumentMoniker": "01. Numbers from 1 to 100\\01. Numbers from 1 to 100.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For Loop - Lab\\01. Numbers from 1 to 100\\01. Numbers from 1 to 100\\01. Numbers from 1 to 100.cpp",
+              "RelativeToolTip": "01. Numbers from 1 to 100\\01. Numbers from 1 to 100.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-22T11:44:54.695Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

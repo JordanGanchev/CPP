@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\01. Trapeziod Area\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B117356-BF56-4B70-88F1-014B7701FA3D}|..\\10. Weather Forecast - Part 2\\10. Weather Forecast - Part 2.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\10. Weather Forecast - Part 2\\10. Weather Forecast - Part 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DEAE33C-7DB2-4EFA-A05C-FAF80FE69EC3}|..\\09. Weather Forecast\\09. Weather Forecast.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\09. Weather Forecast\\09. Weather Forecast.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74C2219B-1A46-49FA-94B8-1E6DB7132CAC}|..\\8. Circle Area and Perimeter\\8. Circle Area and Perimeter.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\8. Circle Area and Perimeter\\8. Circle Area and Perimeter.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4936C75A-FFDE-4E83-B0A7-22678F525255}|..\\07. House Painting\\07. House Painting.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\07. House Painting\\07. House Painting.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16756064-1D4E-4F1D-896E-E59CBC477C42}|..\\06. Fishland\\06. Fishland.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\06. Fishland\\06. Fishland.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{06021ED3-997C-4525-85BD-137B34913C41}|..\\05. Training Lab\\05. Training Lab.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\05. Training Lab\\05. Training Lab.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B90D316F-EDED-4E85-8E94-B0C8CAAF7282}|..\\04. Vegetable Market\\04. Vegetable Market.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\04. Vegetable Market\\04. Vegetable Market.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EEE5C5F0-3D50-4B0C-9592-F6FFAE63E53B}|..\\03. Celsius to Fahrenheit\\03. Celsius to Fahrenheit.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\03. Celsius to Fahrenheit\\03. Celsius to Fahrenheit.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3506756E-0596-472C-9A12-86C60AFC6B5F}|01. Trapeziod Area\\01. Trapeziod Area.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\01. Trapeziod Area\\01. Trapeziod Area\\01. Trapeziod Area.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3506756E-0596-472C-9A12-86C60AFC6B5F}|01. Trapeziod Area\\01. Trapeziod Area.vcxproj|solutionrelative:01. Trapeziod Area\\01. Trapeziod Area.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F8AAE985-95E9-4BF7-AE19-95182D3D52B7}|..\\02. Triangle Area\\02. Triangle Area.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\02. Triangle Area\\02. Triangle Area.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "10. Weather Forecast - Part 2.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\10. Weather Forecast - Part 2\\10. Weather Forecast - Part 2.cpp",
+              "RelativeDocumentMoniker": "..\\10. Weather Forecast - Part 2\\10. Weather Forecast - Part 2.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\10. Weather Forecast - Part 2\\10. Weather Forecast - Part 2.cpp*",
+              "RelativeToolTip": "..\\10. Weather Forecast - Part 2\\10. Weather Forecast - Part 2.cpp*",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T08:42:47.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "09. Weather Forecast.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\09. Weather Forecast\\09. Weather Forecast.cpp",
+              "RelativeDocumentMoniker": "..\\09. Weather Forecast\\09. Weather Forecast.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\09. Weather Forecast\\09. Weather Forecast.cpp",
+              "RelativeToolTip": "..\\09. Weather Forecast\\09. Weather Forecast.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T08:37:00.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "8. Circle Area and Perimeter.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\8. Circle Area and Perimeter\\8. Circle Area and Perimeter.cpp",
+              "RelativeDocumentMoniker": "..\\8. Circle Area and Perimeter\\8. Circle Area and Perimeter.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\8. Circle Area and Perimeter\\8. Circle Area and Perimeter.cpp",
+              "RelativeToolTip": "..\\8. Circle Area and Perimeter\\8. Circle Area and Perimeter.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-23T08:16:31.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "07. House Painting.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\07. House Painting\\07. House Painting.cpp",
+              "RelativeDocumentMoniker": "..\\07. House Painting\\07. House Painting.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\07. House Painting\\07. House Painting.cpp",
+              "RelativeToolTip": "..\\07. House Painting\\07. House Painting.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T21:36:42.45Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "06. Fishland.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\06. Fishland\\06. Fishland.cpp",
+              "RelativeDocumentMoniker": "..\\06. Fishland\\06. Fishland.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\06. Fishland\\06. Fishland.cpp",
+              "RelativeToolTip": "..\\06. Fishland\\06. Fishland.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T20:37:11.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "05. Training Lab.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\05. Training Lab\\05. Training Lab.cpp",
+              "RelativeDocumentMoniker": "..\\05. Training Lab\\05. Training Lab.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\05. Training Lab\\05. Training Lab.cpp",
+              "RelativeToolTip": "..\\05. Training Lab\\05. Training Lab.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T20:00:49.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "04. Vegetable Market.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\04. Vegetable Market\\04. Vegetable Market.cpp",
+              "RelativeDocumentMoniker": "..\\04. Vegetable Market\\04. Vegetable Market.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\04. Vegetable Market\\04. Vegetable Market.cpp",
+              "RelativeToolTip": "..\\04. Vegetable Market\\04. Vegetable Market.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T19:47:06.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "03. Celsius to Fahrenheit.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\03. Celsius to Fahrenheit\\03. Celsius to Fahrenheit.cpp",
+              "RelativeDocumentMoniker": "..\\03. Celsius to Fahrenheit\\03. Celsius to Fahrenheit.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\03. Celsius to Fahrenheit\\03. Celsius to Fahrenheit.cpp",
+              "RelativeToolTip": "..\\03. Celsius to Fahrenheit\\03. Celsius to Fahrenheit.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T19:37:01.027Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "02. Triangle Area.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\02. Triangle Area\\02. Triangle Area.cpp",
+              "RelativeDocumentMoniker": "..\\02. Triangle Area\\02. Triangle Area.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\02. Triangle Area\\02. Triangle Area.cpp",
+              "RelativeToolTip": "..\\02. Triangle Area\\02. Triangle Area.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T19:33:37.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "01. Trapeziod Area.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\01. Trapeziod Area\\01. Trapeziod Area\\01. Trapeziod Area.cpp",
+              "RelativeDocumentMoniker": "01. Trapeziod Area\\01. Trapeziod Area.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\First Steps in Coding - More Exercises\\01. Trapeziod Area\\01. Trapeziod Area\\01. Trapeziod Area.cpp",
+              "RelativeToolTip": "01. Trapeziod Area\\01. Trapeziod Area.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-21T19:03:30.716Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

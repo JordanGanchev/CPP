@@ -1,0 +1,146 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\01. Pipes In Pool\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B0B97230-365D-4286-9BDC-E937A4DCF882}|..\\08. Fuel Tank - Part 2\\08. Fuel Tank - Part 2.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\08. Fuel Tank - Part 2\\08. Fuel Tank - Part 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{713BBA53-BD1A-455B-A0A3-D0E5F6CA6D19}|..\\07. Fuel Tank\\07. Fuel Tank.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\07. Fuel Tank\\07. Fuel Tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00D555C9-6412-4DEB-81E9-5B3DBBC42C84}|..\\06. Flower Shop\\06. Flower Shop.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\06. Flower Shop\\06. Flower Shop.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{76E5B2B8-9A68-4190-A86B-27E0E4CB91E5}|..\\05. Pets\\05. Pets.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\05. Pets\\05. Pets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CCBD2279-B109-43D3-9A8C-864E40F30B8D}|..\\04. Transport Price\\04. Transport Price.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\04. Transport Price\\04. Transport Price.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26C62D0E-8D04-4FFD-80FB-3A6387A002D3}|..\\03. Harvest\\03. Harvest.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\03. Harvest\\03. Harvest.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4E4177FD-3F17-4607-8011-F15190363922}|..\\02. Sleepy Tom Cat\\02. Sleepy Tom Cat.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\02. Sleepy Tom Cat\\02. Sleepy Tom Cat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46BE8312-4831-4B46-815D-AD2211280264}|01. Pipes In Pool\\01. Pipes In Pool.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\01. Pipes In Pool\\01. Pipes In Pool\\01. Pipes In Pool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46BE8312-4831-4B46-815D-AD2211280264}|01. Pipes In Pool\\01. Pipes In Pool.vcxproj|solutionrelative:01. Pipes In Pool\\01. Pipes In Pool.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08. Fuel Tank - Part 2.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\08. Fuel Tank - Part 2\\08. Fuel Tank - Part 2.cpp",
+              "RelativeDocumentMoniker": "..\\08. Fuel Tank - Part 2\\08. Fuel Tank - Part 2.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\08. Fuel Tank - Part 2\\08. Fuel Tank - Part 2.cpp*",
+              "RelativeToolTip": "..\\08. Fuel Tank - Part 2\\08. Fuel Tank - Part 2.cpp*",
+              "ViewState": "AgIAACIAAAAAAAAAAAAmwC0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T19:36:47.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07. Fuel Tank.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\07. Fuel Tank\\07. Fuel Tank.cpp",
+              "RelativeDocumentMoniker": "..\\07. Fuel Tank\\07. Fuel Tank.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\07. Fuel Tank\\07. Fuel Tank.cpp",
+              "RelativeToolTip": "..\\07. Fuel Tank\\07. Fuel Tank.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAAAB8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T18:57:48.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "06. Flower Shop.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\06. Flower Shop\\06. Flower Shop.cpp",
+              "RelativeDocumentMoniker": "..\\06. Flower Shop\\06. Flower Shop.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\06. Flower Shop\\06. Flower Shop.cpp",
+              "RelativeToolTip": "..\\06. Flower Shop\\06. Flower Shop.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T18:19:56.58Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "05. Pets.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\05. Pets\\05. Pets.cpp",
+              "RelativeDocumentMoniker": "..\\05. Pets\\05. Pets.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\05. Pets\\05. Pets.cpp",
+              "RelativeToolTip": "..\\05. Pets\\05. Pets.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T10:58:35.061Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04. Transport Price.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\04. Transport Price\\04. Transport Price.cpp",
+              "RelativeDocumentMoniker": "..\\04. Transport Price\\04. Transport Price.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\04. Transport Price\\04. Transport Price.cpp",
+              "RelativeToolTip": "..\\04. Transport Price\\04. Transport Price.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-27T07:32:49.103Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03. Harvest.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\03. Harvest\\03. Harvest.cpp",
+              "RelativeDocumentMoniker": "..\\03. Harvest\\03. Harvest.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\03. Harvest\\03. Harvest.cpp",
+              "RelativeToolTip": "..\\03. Harvest\\03. Harvest.cpp",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T20:50:43.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "02. Sleepy Tom Cat.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\02. Sleepy Tom Cat\\02. Sleepy Tom Cat.cpp",
+              "RelativeDocumentMoniker": "..\\02. Sleepy Tom Cat\\02. Sleepy Tom Cat.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\02. Sleepy Tom Cat\\02. Sleepy Tom Cat.cpp",
+              "RelativeToolTip": "..\\02. Sleepy Tom Cat\\02. Sleepy Tom Cat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T19:56:54.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01. Pipes In Pool.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\01. Pipes In Pool\\01. Pipes In Pool\\01. Pipes In Pool.cpp",
+              "RelativeDocumentMoniker": "01. Pipes In Pool\\01. Pipes In Pool.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Conditional Statements - More Exercises\\01. Pipes In Pool\\01. Pipes In Pool\\01. Pipes In Pool.cpp",
+              "RelativeToolTip": "01. Pipes In Pool\\01. Pipes In Pool.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAswBAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-24T19:39:48.691Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -39,3 +39,22 @@ int main()
     cout << name << " graduated.Average grade : " << fixed << setprecision(2) << avgGrade << endl;
 
 }
+
+// ---------------------------------------------------
+
+int main() {
+    int number;
+    cin >> number;
+
+    while (number != 1) {
+        if (number % 2 == 0) {
+            number /= 2;
+        }
+        else
+        {
+            number = (3 * number) + 1;
+        }
+
+        cout << number << endl;
+    }
+}

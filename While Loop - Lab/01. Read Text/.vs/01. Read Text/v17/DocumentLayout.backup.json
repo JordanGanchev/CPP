@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\01. Read Text\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7A6F3144-A482-4AD0-AE60-552C1A3845D1}|..\\08. Graduation\\08. Graduation\\08. Graduation.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\08. Graduation\\08. Graduation\\08. Graduation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEE4C4F6-A121-4EB2-AEDF-DF255F9F2F1C}|..\\07. Min Number\\07. Min Number.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\07. Min Number\\07. Min Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12B0A2A7-0BD3-4C35-9D5B-B412CC4D43AA}|..\\06. Max Number\\06. Max Number\\06. Max Number.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\06. Max Number\\06. Max Number\\06. Max Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{654749C3-A597-4237-A9AD-4C206F99D31E}|..\\05. Account Balance\\05. Account Balance.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\05. Account Balance\\05. Account Balance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E6F07B44-E679-403F-8F64-48463FA33301}|..\\04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{798C1012-3944-4F82-A18D-5502B3DB629B}|..\\03. Sum Numbers\\03. Sum Numbers.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\03. Sum Numbers\\03. Sum Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E582A601-261C-40AE-9A53-3ACD5D13E047}|..\\02. Password\\02. Password.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\02. Password\\02. Password.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0359DD1-B518-4F90-949F-A2496EE7B7B9}|01. Read Text\\01. Read Text.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\01. Read Text\\01. Read Text\\01. Read Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E0359DD1-B518-4F90-949F-A2496EE7B7B9}|01. Read Text\\01. Read Text.vcxproj|solutionrelative:01. Read Text\\01. Read Text.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08. Graduation.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\08. Graduation\\08. Graduation\\08. Graduation.cpp",
+              "RelativeDocumentMoniker": "..\\08. Graduation\\08. Graduation\\08. Graduation.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\08. Graduation\\08. Graduation\\08. Graduation.cpp*",
+              "RelativeToolTip": "..\\08. Graduation\\08. Graduation\\08. Graduation.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T12:19:35.817Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07. Min Number.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\07. Min Number\\07. Min Number.cpp",
+              "RelativeDocumentMoniker": "..\\07. Min Number\\07. Min Number.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\07. Min Number\\07. Min Number.cpp",
+              "RelativeToolTip": "..\\07. Min Number\\07. Min Number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T12:16:46.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "06. Max Number.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\06. Max Number\\06. Max Number\\06. Max Number.cpp",
+              "RelativeDocumentMoniker": "..\\06. Max Number\\06. Max Number\\06. Max Number.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\06. Max Number\\06. Max Number\\06. Max Number.cpp",
+              "RelativeToolTip": "..\\06. Max Number\\06. Max Number\\06. Max Number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T12:10:52.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "05. Account Balance.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\05. Account Balance\\05. Account Balance.cpp",
+              "RelativeDocumentMoniker": "..\\05. Account Balance\\05. Account Balance.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\05. Account Balance\\05. Account Balance.cpp",
+              "RelativeToolTip": "..\\05. Account Balance\\05. Account Balance.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T11:34:57.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04. Sequence 2k\u002B1.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.cpp",
+              "RelativeDocumentMoniker": "..\\04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.cpp",
+              "RelativeToolTip": "..\\04. Sequence 2k\u002B1\\04. Sequence 2k\u002B1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T10:46:24.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03. Sum Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\03. Sum Numbers\\03. Sum Numbers.cpp",
+              "RelativeDocumentMoniker": "..\\03. Sum Numbers\\03. Sum Numbers.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\03. Sum Numbers\\03. Sum Numbers.cpp",
+              "RelativeToolTip": "..\\03. Sum Numbers\\03. Sum Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T10:27:58.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "02. Password.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\02. Password\\02. Password.cpp",
+              "RelativeDocumentMoniker": "..\\02. Password\\02. Password.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\02. Password\\02. Password.cpp",
+              "RelativeToolTip": "..\\02. Password\\02. Password.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T08:45:46.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01. Read Text.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\01. Read Text\\01. Read Text\\01. Read Text.cpp",
+              "RelativeDocumentMoniker": "01. Read Text\\01. Read Text.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\While Loop - Lab\\01. Read Text\\01. Read Text\\01. Read Text.cpp",
+              "RelativeToolTip": "01. Read Text\\01. Read Text.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-01T08:08:24.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

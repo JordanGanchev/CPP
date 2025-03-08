@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\01. Clock\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{895B8BF5-342B-4CB9-B1A7-085839070BDB}|..\\06. Building\\06. Building.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\06. Building\\06. Building.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D7A19B0-1C95-46D0-9CB1-75ADA8E2D430}|..\\05. Travelling\\05. Travelling\\05. Travelling.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\05. Travelling\\05. Travelling\\05. Travelling.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0B372C-87F5-4DED-92AF-3F7100283387}|..\\04. Sum of Two Numbers\\04. Sum of Two Numbers.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\04. Sum of Two Numbers\\04. Sum of Two Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EED38EEC-150C-4D82-8BDF-AEFAA42361D6}|..\\02. Multiplication Table\\ConsoleApplication1\\ConsoleApplication1.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\02. Multiplication Table\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79C5DAAF-67F4-4507-9627-B1010625EE61}|..\\03. Combinations\\03. Combinations.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\03. Combinations\\03. Combinations.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE792413-8A2A-4D22-9D2E-54A5163D011F}|01. Clock\\01. Clock.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\01. Clock\\01. Clock\\01. Clock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EE792413-8A2A-4D22-9D2E-54A5163D011F}|01. Clock\\01. Clock.vcxproj|solutionrelative:01. Clock\\01. Clock.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06. Building.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\06. Building\\06. Building.cpp",
+              "RelativeDocumentMoniker": "..\\06. Building\\06. Building.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\06. Building\\06. Building.cpp*",
+              "RelativeToolTip": "..\\06. Building\\06. Building.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T11:31:31.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05. Travelling.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\05. Travelling\\05. Travelling\\05. Travelling.cpp",
+              "RelativeDocumentMoniker": "..\\05. Travelling\\05. Travelling\\05. Travelling.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\05. Travelling\\05. Travelling\\05. Travelling.cpp",
+              "RelativeToolTip": "..\\05. Travelling\\05. Travelling\\05. Travelling.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T10:52:03.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04. Sum of Two Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\04. Sum of Two Numbers\\04. Sum of Two Numbers.cpp",
+              "RelativeDocumentMoniker": "..\\04. Sum of Two Numbers\\04. Sum of Two Numbers.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\04. Sum of Two Numbers\\04. Sum of Two Numbers.cpp",
+              "RelativeToolTip": "..\\04. Sum of Two Numbers\\04. Sum of Two Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T10:25:51.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "03. Combinations.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\03. Combinations\\03. Combinations.cpp",
+              "RelativeDocumentMoniker": "..\\03. Combinations\\03. Combinations.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\03. Combinations\\03. Combinations.cpp",
+              "RelativeToolTip": "..\\03. Combinations\\03. Combinations.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T09:59:46.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ConsoleApplication1.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\02. Multiplication Table\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeDocumentMoniker": "..\\02. Multiplication Table\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\02. Multiplication Table\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "..\\02. Multiplication Table\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T09:52:09.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01. Clock.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\01. Clock\\01. Clock\\01. Clock.cpp",
+              "RelativeDocumentMoniker": "01. Clock\\01. Clock.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Lab\\01. Clock\\01. Clock\\01. Clock.cpp",
+              "RelativeToolTip": "01. Clock\\01. Clock.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-08T08:54:25.157Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

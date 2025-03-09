@@ -1,0 +1,121 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\01. Number Pyramid\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFC105B5-BB0C-4F30-94BF-23101C440525}|..\\06. Cinema Tickets\\06. Cinema Tickets.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\06. Cinema Tickets\\06. Cinema Tickets.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7294E3D-B16B-491C-A4A5-D0974D4F2911}|..\\05. Special Numbers\\05. Special Numbers.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\05. Special Numbers\\05. Special Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{884D7143-BD0F-41AC-B24E-EE517F145039}|..\\04. Train The Trainers\\04. Train The Trainers.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\04. Train The Trainers\\04. Train The Trainers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41FFCAC1-623D-4BD1-9EF3-B7E481F2D433}|..\\03. Sum Prime Non Prime\\03. Sum Prime Non Prime.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\03. Sum Prime Non Prime\\03. Sum Prime Non Prime.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A52E6881-6EA3-464D-9275-97E46B0AF7FE}|..\\02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50452A76-FF63-4C8D-ACDD-2C3832FA39D4}|01. Number Pyramid\\01. Number Pyramid.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\01. Number Pyramid\\01. Number Pyramid\\01. Number Pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{50452A76-FF63-4C8D-ACDD-2C3832FA39D4}|01. Number Pyramid\\01. Number Pyramid.vcxproj|solutionrelative:01. Number Pyramid\\01. Number Pyramid.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "06. Cinema Tickets.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\06. Cinema Tickets\\06. Cinema Tickets.cpp",
+              "RelativeDocumentMoniker": "..\\06. Cinema Tickets\\06. Cinema Tickets.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\06. Cinema Tickets\\06. Cinema Tickets.cpp",
+              "RelativeToolTip": "..\\06. Cinema Tickets\\06. Cinema Tickets.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T20:27:33.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "05. Special Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\05. Special Numbers\\05. Special Numbers.cpp",
+              "RelativeDocumentMoniker": "..\\05. Special Numbers\\05. Special Numbers.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\05. Special Numbers\\05. Special Numbers.cpp",
+              "RelativeToolTip": "..\\05. Special Numbers\\05. Special Numbers.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T19:48:28.481Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "04. Train The Trainers.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\04. Train The Trainers\\04. Train The Trainers.cpp",
+              "RelativeDocumentMoniker": "..\\04. Train The Trainers\\04. Train The Trainers.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\04. Train The Trainers\\04. Train The Trainers.cpp",
+              "RelativeToolTip": "..\\04. Train The Trainers\\04. Train The Trainers.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAswBUAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T19:01:31.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "03. Sum Prime Non Prime.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\03. Sum Prime Non Prime\\03. Sum Prime Non Prime.cpp",
+              "RelativeDocumentMoniker": "..\\03. Sum Prime Non Prime\\03. Sum Prime Non Prime.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\03. Sum Prime Non Prime\\03. Sum Prime Non Prime.cpp",
+              "RelativeToolTip": "..\\03. Sum Prime Non Prime\\03. Sum Prime Non Prime.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAswBkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T18:18:07.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "02. Equal Sums Even Odd Position.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.cpp",
+              "RelativeDocumentMoniker": "..\\02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.cpp",
+              "RelativeToolTip": "..\\02. Equal Sums Even Odd Position\\02. Equal Sums Even Odd Position.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T08:13:41.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "01. Number Pyramid.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\01. Number Pyramid\\01. Number Pyramid\\01. Number Pyramid.cpp",
+              "RelativeDocumentMoniker": "01. Number Pyramid\\01. Number Pyramid.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Nested Loops - Exercise\\01. Number Pyramid\\01. Number Pyramid\\01. Number Pyramid.cpp",
+              "RelativeToolTip": "01. Number Pyramid\\01. Number Pyramid.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-09T07:27:43.617Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

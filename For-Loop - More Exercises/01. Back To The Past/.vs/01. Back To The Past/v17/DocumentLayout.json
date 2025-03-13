@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\01. Back To The Past\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F03895F8-412F-48AB-BC98-86B45D1511CA}|..\\11. Odd  Even Position\\11. Odd  Even Position.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\11. Odd  Even Position\\11. Odd  Even Position.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5281A8A0-166B-46E9-B822-AC865BDEAB22}|..\\10. Clock - part 2\\10. Clock - part 2.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\10. Clock - part 2\\10. Clock - part 2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{27753AE5-444F-450A-9C9B-0885BE780758}|..\\08. Equal Pairs\\08. Equal Pairs.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\08. Equal Pairs\\08. Equal Pairs.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "10. Clock - part 2.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\10. Clock - part 2\\10. Clock - part 2.cpp",
+              "RelativeDocumentMoniker": "..\\10. Clock - part 2\\10. Clock - part 2.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\10. Clock - part 2\\10. Clock - part 2.cpp",
+              "RelativeToolTip": "..\\10. Clock - part 2\\10. Clock - part 2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T17:41:56.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "08. Equal Pairs.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\08. Equal Pairs\\08. Equal Pairs.cpp",
+              "RelativeDocumentMoniker": "..\\08. Equal Pairs\\08. Equal Pairs.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\08. Equal Pairs\\08. Equal Pairs.cpp",
+              "RelativeToolTip": "..\\08. Equal Pairs\\08. Equal Pairs.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T16:29:43.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "11. Odd  Even Position.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\11. Odd  Even Position\\11. Odd  Even Position.cpp",
+              "RelativeDocumentMoniker": "..\\11. Odd  Even Position\\11. Odd  Even Position.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\For-Loop - More Exercises\\11. Odd  Even Position\\11. Odd  Even Position.cpp*",
+              "RelativeToolTip": "..\\11. Odd  Even Position\\11. Odd  Even Position.cpp*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAC8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-13T11:09:16.043Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

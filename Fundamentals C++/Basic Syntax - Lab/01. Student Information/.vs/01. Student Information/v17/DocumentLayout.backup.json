@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\01. Student Information\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F2149D2-3CBC-436F-B254-64B3ACF16F9A}|..\\08. Even Number\\08. Even Number.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\08. Even Number\\08. Even Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90E09087-813E-4DEF-BB85-92A9DB1C8038}|..\\07. Multiplication Table\\07. Multiplication Table.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\07. Multiplication Table\\07. Multiplication Table.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8592BC7B-9908-4D70-BC1C-99701EBF3CF7}|..\\06. Sum of Odd Numbers\\06. Sum of Odd Numbers.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\06. Sum of Odd Numbers\\06. Sum of Odd Numbers.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4B07E86F-2275-4D82-B735-E68E4F9388E3}|..\\05. Divisible by 3\\05. Divisible by 3\\05. Divisible by 3.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\05. Divisible by 3\\05. Divisible by 3\\05. Divisible by 3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5FFD83-19C8-48F2-AF5A-67C99EBEA6C9}|..\\04. Foreign Languages\\04. Foreign Languages.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\04. Foreign Languages\\04. Foreign Languages.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E622550-A5D4-489C-B50C-CA1BA7A7B6F3}|..\\03. Month Printer\\03. Month Printer.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\03. Month Printer\\03. Month Printer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F9B6C18-92FF-4D45-9545-AC5802768F60}|..\\02. Passed or Failed\\02. Passed or Failed.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\02. Passed or Failed\\02. Passed or Failed.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B97F0A9-3A46-461F-857D-3477526B114C}|01. Student Information\\01. Student Information.vcxproj|C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\01. Student Information\\01. Student Information\\01. Student Information.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B97F0A9-3A46-461F-857D-3477526B114C}|01. Student Information\\01. Student Information.vcxproj|solutionrelative:01. Student Information\\01. Student Information.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 112,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "08. Even Number.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\08. Even Number\\08. Even Number.cpp",
+              "RelativeDocumentMoniker": "..\\08. Even Number\\08. Even Number.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\08. Even Number\\08. Even Number.cpp",
+              "RelativeToolTip": "..\\08. Even Number\\08. Even Number.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T19:46:27.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "07. Multiplication Table.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\07. Multiplication Table\\07. Multiplication Table.cpp",
+              "RelativeDocumentMoniker": "..\\07. Multiplication Table\\07. Multiplication Table.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\07. Multiplication Table\\07. Multiplication Table.cpp",
+              "RelativeToolTip": "..\\07. Multiplication Table\\07. Multiplication Table.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T19:40:13.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "06. Sum of Odd Numbers.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\06. Sum of Odd Numbers\\06. Sum of Odd Numbers.cpp",
+              "RelativeDocumentMoniker": "..\\06. Sum of Odd Numbers\\06. Sum of Odd Numbers.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\06. Sum of Odd Numbers\\06. Sum of Odd Numbers.cpp",
+              "RelativeToolTip": "..\\06. Sum of Odd Numbers\\06. Sum of Odd Numbers.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:53:14.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "05. Divisible by 3.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\05. Divisible by 3\\05. Divisible by 3\\05. Divisible by 3.cpp",
+              "RelativeDocumentMoniker": "..\\05. Divisible by 3\\05. Divisible by 3\\05. Divisible by 3.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\05. Divisible by 3\\05. Divisible by 3\\05. Divisible by 3.cpp",
+              "RelativeToolTip": "..\\05. Divisible by 3\\05. Divisible by 3\\05. Divisible by 3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:43:54.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "04. Foreign Languages.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\04. Foreign Languages\\04. Foreign Languages.cpp",
+              "RelativeDocumentMoniker": "..\\04. Foreign Languages\\04. Foreign Languages.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\04. Foreign Languages\\04. Foreign Languages.cpp",
+              "RelativeToolTip": "..\\04. Foreign Languages\\04. Foreign Languages.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:26:59.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "03. Month Printer.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\03. Month Printer\\03. Month Printer.cpp",
+              "RelativeDocumentMoniker": "..\\03. Month Printer\\03. Month Printer.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\03. Month Printer\\03. Month Printer.cpp",
+              "RelativeToolTip": "..\\03. Month Printer\\03. Month Printer.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T09:11:02.724Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "02. Passed or Failed.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\02. Passed or Failed\\02. Passed or Failed.cpp",
+              "RelativeDocumentMoniker": "..\\02. Passed or Failed\\02. Passed or Failed.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\02. Passed or Failed\\02. Passed or Failed.cpp",
+              "RelativeToolTip": "..\\02. Passed or Failed\\02. Passed or Failed.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T08:46:46.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "01. Student Information.cpp",
+              "DocumentMoniker": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\01. Student Information\\01. Student Information\\01. Student Information.cpp",
+              "RelativeDocumentMoniker": "01. Student Information\\01. Student Information.cpp",
+              "ToolTip": "C:\\Users\\Jordan Ganchev\\source\\repos\\Fundamentals C\u002B\u002B\\Basic Syntax - Lab\\01. Student Information\\01. Student Information\\01. Student Information.cpp",
+              "RelativeToolTip": "01. Student Information\\01. Student Information.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-04-24T04:53:17.363Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

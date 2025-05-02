@@ -26,7 +26,9 @@ void funcString(string one, string two){
 
 int main() {
     string charOperator, charNumberOne, charNumberTwo;
-    cin >> charOperator >> charNumberOne >> charNumberTwo;
+    getline(cin, charOperator); 
+    getline(cin, charNumberOne);
+    getline(cin, charNumberTwo);
 
     if (charOperator == "int")
         funcInt(charNumberOne, charNumberTwo);
